@@ -1,6 +1,13 @@
 # Portfólio
 Repositório para o meu desenvolvimento pessoal e profissional.
 
+# Contato
+
+Você pode entrar em contato comigo por meio das seguintes formas:
+
+**Email:** lucascomercial3@gmail.com
+**LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/ohliminha)
+
 ## Certificados
 
 Na pasta [`certificados`](./certificados) estão armazenados todos os meus certificados em formato PDF, referentes a cursos, treinamentos e certificações que concluí.  
