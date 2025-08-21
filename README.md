@@ -1,5 +1,5 @@
-# Portfolio
-Repositório para o meu desenvolvimento pessoal e profissional 
+# Portfólio
+Repositório para o meu desenvolvimento pessoal e profissional.
 
 ## Certificados
 
